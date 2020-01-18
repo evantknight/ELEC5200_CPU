@@ -1,4 +1,4 @@
-This is the CPU I designed in ELEC 5200 Computer Architecture.
+This is the CPU I designed in ELEC 5200 Computer Architecture in Spring of 2018.
 
 It is a Multicycle 16-bit RISC CPU with 16 registers.
 
